@@ -2,8 +2,8 @@
 charset,Shift_JIS
 
 craftman,	Cat of MOON
-craftmanw,HŒ‚ê‚ñ‚°
-craftmanurl,http://2shin.net/nekotuki/
+craftmanw,‚É‚İ‚ã‚¤/HŒ‚ê‚ñ‚°
+craftmanurl,http://nekotuki.skr.jp/
 
 name,…•û‰~Ší
 type,ghost
