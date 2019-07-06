@@ -1,0 +1,7 @@
+charset,Shift_JIS
+name,…•û‰~Ší
+type,ghost
+directory,water
+
+refresh,1
+refreshundeletemask,satori_savedata.txt
